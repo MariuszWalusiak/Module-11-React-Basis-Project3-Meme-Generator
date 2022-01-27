@@ -59,3 +59,8 @@ main {
   cursor: pointer;
   padding: 4px;
 }
+.meme--image {
+  width: 100%;
+  padding-top: 30px;
+
+}
